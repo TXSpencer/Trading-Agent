@@ -23,7 +23,6 @@ class DeepTradingEnvironment:
         self.done = False
 
         return self._get_state()
-    
 
     def _get_state(self):
         """
