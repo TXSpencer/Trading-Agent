@@ -2,3 +2,5 @@ pandas==2.2.3
 plotly==6.0.0
 torch==2.6.0
 numpy==2.0.2
+yfinance==0.2.55
+gym==0.26.2
